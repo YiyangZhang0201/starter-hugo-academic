@@ -24,6 +24,10 @@ feature:
   icon: camera-retro
   icon_pack: fas
   name: Python
+- description: 50%
+  icon: camera-retro
+  icon_pack: fas
+  name: C++
 - description: 100%
   icon: chart-line
   icon_pack: fas
