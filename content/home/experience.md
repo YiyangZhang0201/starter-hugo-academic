@@ -36,14 +36,17 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Quant Research Intern
+    company: Chain Bridge Fund LTD
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: org-cb
+    location: Singapore
+    date_start: '2021-04'
+    date_end: '2021-12'
+    description: 
+    
+    * Edit Open-sourced quantitative trading software and build required functions on it.
+    * Build light-weighted quantitative trading strategies for cryptocurrency.
 
 design:
   columns: '2'
