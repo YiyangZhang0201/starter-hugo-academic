@@ -33,7 +33,7 @@ feature:
   icon_pack: fas
   name: Programming
 - description: 80%
-  icon: laptop-code
+  icon: square-root-variable
   icon_pack: fas
   name: Mathematics
 
