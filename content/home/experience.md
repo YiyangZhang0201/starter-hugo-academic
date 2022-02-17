@@ -25,7 +25,6 @@ experience:
   - title: CEO
     company: GenCoin
     company_url: ''
-    company_logo: org-gc
     location: California
     date_start: '2021-01-01'
     date_end: ''
@@ -38,8 +37,6 @@ experience:
         
   - title: Quant Research Intern
     company: Chain Bridge Fund LTD
-    company_url: ''
-    company_logo: org-x
     location: Singapore
     date_start: '2021-04'
     date_end: '2021-12'
