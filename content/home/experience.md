@@ -22,13 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: CEO
+    company: GenCoin
+    company_url: ''
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
         
   - title: Quant Research Intern
     company: Chain Bridge Fund LTD
+    company_url: ''
+    company_logo: org-cb
     location: Singapore
     date_start: '2021-04'
     date_end: '2021-12'
-    description: Research and build quantitative trading strategies for cryptocurrency.
+    description: 
+    
+    * Edit Open-sourced quantitative trading software and build required functions on it.
+    * Build light-weighted quantitative trading strategies for cryptocurrency.
 
 design:
   columns: '2'
