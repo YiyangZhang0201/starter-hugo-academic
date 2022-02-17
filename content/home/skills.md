@@ -33,8 +33,8 @@ feature:
   icon_pack: fas
   name: Programming
 - description: 80%
-  icon: calculator-simple
-  icon_pack: fab
+  icon: laptop-code
+  icon_pack: fas
   name: Mathematics
 
 # Uncomment to use emoji icons.
