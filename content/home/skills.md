@@ -22,7 +22,7 @@ feature:
   name: R
 - description: 100%
   icon: camera-retro
-  icon_pack: fas
+  icon_pack: fab
   name: Python
 - description: 50%
   icon: camera-retro
