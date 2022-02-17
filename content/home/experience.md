@@ -39,11 +39,11 @@ experience:
   - title: Quant Research Intern
     company: Chain Bridge Fund LTD
     company_url: ''
-    company_logo: org-cb
+    company_logo: org-x
     location: Singapore
     date_start: '2021-04'
     date_end: '2021-12'
-    description: Research and build light-weighted quantitative trading strategies for cryptocurrency.
+    description: Research and build quantitative trading strategies for cryptocurrency.
 
 design:
   columns: '2'
