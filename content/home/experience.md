@@ -22,11 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+   - title: Quant Research Intern
+    company:  Chain Bridge Fund LTD
+    company_url: ''
+    company_logo: cb
+    location: Remote, Singapore
+    date_start: '2021-04-01'
+    date_end: '2021-12-01'
+    description: |2-
+        Responsibilities include:  
+        
+        * Edit Open-sourced quantitative trading software and build required functions for crypocurrency trading.
+        * Research and build quantitative trading strategies for cryptocurrency and corresponding futures.
+        
   - title: Fix-Income Research Intern
     company: Huatai Securities Co
     company_url: 'https://www.htsc.com.cn/'
     company_logo: ht
-    location: Shenzhen China
+    location: Shenzhen， China
     date_start: '2021-08-01'
     date_end: '2021-11-01'
     description: |2-
@@ -34,7 +47,13 @@ experience:
         
         * Do the data mining and statistical analysis on city investment bond.
         * Research on portfolio optimization algorithm and use deep learning techniques to improve the trading strategy.
-        
+ 
+
+ 
+ 
+ 
+ 
+ 
 
 design:
   columns: '2'
