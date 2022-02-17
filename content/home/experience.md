@@ -35,15 +35,6 @@ experience:
         * Analysing
         * Modelling
         * Deploying
-        
-  - title: Quant Research Intern
-    company: Chain Bridge Fund LTD
-    company_url: ''
-    company_logo: org-gc
-    location: Singapore
-    date_start: '2021-04'
-    date_end: '2021-12'
-    description:
 
 design:
   columns: '2'
