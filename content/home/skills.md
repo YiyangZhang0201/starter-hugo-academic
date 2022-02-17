@@ -21,23 +21,19 @@ feature:
   icon_pack: fab
   name: R
 - description: 100%
-  icon: camera-retro
+  icon: python
   icon_pack: fab
   name: Python
-- description: 50%
-  icon: camera-retro
-  icon_pack: fas
-  name: C++
 - description: 100%
   icon: chart-line
   icon_pack: fas
   name: Statistics
 - description: 90%
-  icon: chart-line
+  icon: function
   icon_pack: fas
   name: Mathematics
 - description: 90%
-  icon: chart-line
+  icon: laptop-code
   icon_pack: fas
   name: Programming
 
