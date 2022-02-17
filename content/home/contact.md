@@ -26,12 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: zhyiyang@umich.edu
-  phone: 734 358 9397
-<!--   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter' -->
+  phone: (+1) 734 358 9397 / (+86) 131 2857 0913
 
 design:
   columns: '2'
