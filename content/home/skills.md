@@ -29,13 +29,13 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 90%
-  icon: calculator-simple
-  icon_pack: fas
-  name: Mathematics
-- description: 90%
   icon: laptop-code
   icon_pack: fas
   name: Programming
+- description: 80%
+  icon: calculator-simple
+  icon_pack: fab
+  name: Mathematics
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
