@@ -33,7 +33,7 @@ education:
     year: 2023
   - course: BSc in Economics
     institution: Sun Yat-sen University 
-    year: 2008
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
