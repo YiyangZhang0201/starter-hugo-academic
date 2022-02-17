@@ -29,8 +29,8 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 90%
-  icon: function
-  icon_pack: fab
+  icon: calculator-simple
+  icon_pack: fas
   name: Mathematics
 - description: 90%
   icon: laptop-code
