@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Quant Research Intern
-    company:  Chain Bridge Fund LTD
+    company:  Chain Bridge Fund LTD.
     company_url: ''
     company_logo: cb
     location: Remote, Singapore
@@ -36,10 +36,10 @@ experience:
         * Research and build quantitative trading strategies for cryptocurrency and corresponding futures.
         
   - title: Fix-Income Research Intern
-    company: Huatai Securities Co
+    company: Huatai Securities Co.
     company_url: 'https://www.htsc.com.cn/'
     company_logo: ht
-    location: Shenzhen， China
+    location: Shenzhen, China
     date_start: '2021-08-01'
     date_end: '2021-11-01'
     description: |2-
@@ -47,7 +47,19 @@ experience:
         
         * Do the data mining and statistical analysis on city investment bond.
         * Research on portfolio optimization algorithm and use deep learning techniques to improve the trading strategy.
- 
+
+  - title: Quant Research Intern
+    company: GuangjinMeihao Fund Management Co.
+    company_url: 'http://www.aceasset.com.cn/'
+    company_logo: gj
+    location: Guangzhou, China
+    date_start: '2020-06-01'
+    date_end: '2020-11-01'
+    description: |2-
+        Responsibilities include:  
+        
+        * Researched  the  quantitative  strategy  of  quantitative  sub-funds  of  FOF  investment  and  conducted quantitative sub-fund investment feasibility analysis and evaluation.
+        * Successfully  developed  a  stock  index  arbitrage  trading  strategy  and  an  alpha  strategy  based  on Equity-bond yield difference.
 
  
  
