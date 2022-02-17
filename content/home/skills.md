@@ -30,7 +30,7 @@ feature:
   name: Statistics
 - description: 90%
   icon: function
-  icon_pack: fas
+  icon_pack: fab
   name: Mathematics
 - description: 90%
   icon: laptop-code
