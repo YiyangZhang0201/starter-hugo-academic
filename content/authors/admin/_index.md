@@ -6,7 +6,7 @@ title: Yiyang Zhang
 superuser: true
 
 # Role/position/tagline
-role: MFE & MSc Student in University of Michigan
+role: MFE & MSc Student at University of Michigan
 
 # Organizations/Affiliations to show in About widget
 organizations:
