@@ -1,38 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yiyang Zhang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: MFE & MSc Student in University of Michigan
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Michigan
+  url: https://umich.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include quantitative trading, statistical modeling and deep learning.
 
 # Interests to show in About widget
 interests:
+- Quantitative Trading
+- Statistical Modeling
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: MSc in Applied Statistics
+    institution: University of Michigan
+    year: 2023
+  - course: MFE in Quantitative Finance and Risk Management
+    institution: University of Michigan
+    year: 2023
+  - course: BSc in Economics
+    institution: Sun Yat-sen University 
     year: 2008
 
 # Social/Academic Networking
