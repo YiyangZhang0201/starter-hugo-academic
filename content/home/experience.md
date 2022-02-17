@@ -43,10 +43,7 @@ experience:
     location: Singapore
     date_start: '2021-04'
     date_end: '2021-12'
-    description: 
-    
-    * Edit Open-sourced quantitative trading software and build required functions on it.
-    * Build light-weighted quantitative trading strategies for cryptocurrency.
+    description: Research and build light-weighted quantitative trading strategies for cryptocurrency.
 
 design:
   columns: '2'
