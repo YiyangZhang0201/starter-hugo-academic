@@ -25,7 +25,7 @@ experience:
   - title: Fix-Income Research Intern
     company: Huatai Securities Co
     company_url: 'https://www.htsc.com.cn/'
-    company_logo: org-ht
+    company_logo: ht
     location: Shenzhen China
     date_start: '2021-08-01'
     date_end: '2021-11-01'
