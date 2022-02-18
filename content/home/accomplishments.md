@@ -39,7 +39,6 @@ item:
   title: FRM Level I
   url: https://my.garp.org/sfdcApp#!/exam_results
   
-subtitle: Competition
   
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
