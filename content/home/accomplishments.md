@@ -26,6 +26,7 @@ item:
 - certificate_url: https://www.accaglobal.com
   date_end: ""
   date_start: "2019-06-01"
+  company_logo: org-gc
   description: "8/13 Passed"
   organization: the Association of Chartered Certified Accountants (ACCA)
   organization_url: https://www.accaglobal.com/gb/en.html
