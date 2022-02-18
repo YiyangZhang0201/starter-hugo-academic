@@ -32,8 +32,8 @@ item:
   title: ACCA Student
   url: ""
 - certificate_url: https://www.garp.org/
-  date_end: ""
-  date_start: "2021-11-01"
+  date_end: "2021-12-01"
+  date_start: "2020-07-15"
   description: "FRM Level I Passed"
   organization: Global Association of Risk Professionals (GARP)
   organization_url: https://www.edx.org
@@ -55,22 +55,32 @@ item:
   organization_url: https://www.ets.org/
   title: 'GRE'
   url: ""
-- certificate_url: 
+- certificate_url: "https://www.coursera.org/account/accomplishments/verify/XBAL76VNQYZZ"
   date_end: ""
   date_start: "2019-02-01"
   description: "Python for Data Science, AI & Development"
   organization: Coursera
   organization_url: https://www.coursera.org/
   title: 'Python for Data Science, AI & Development'
-  url: "https://www.coursera.org/account/accomplishments/verify/XBAL76VNQYZZ"
-- certificate_url: 
+  url: 
+- certificate_url: "https://www.coursera.org/account/accomplishments/verify/997BQH3N8DBA"  
   date_end: ""
   date_start: "2019-04-01"
   description: "Data Analysis with Python"
   organization: Coursera
   organization_url: https://www.coursera.org/
   title: 'Data Analysis with Python'
-  url: "https://www.coursera.org/account/accomplishments/verify/997BQH3N8DBA"  
+  url: 
+
+- certificate_url: https://www.kaggle.com/c/optiver-realized-volatility-prediction/leaderboard
+  date_end: "2022-01-01"
+  date_start: "2021-06-28"
+  description: "Silver Medal, Rank 77/3852. The method used is LightGBM & FFNN."
+  organization: Kaggle
+  organization_url: https://www.kaggle.com/
+  title: 'Optiver Realized Volatility Prediction'
+  url: https://www.kaggle.com/c/optiver-realized-volatility-prediction/overview 
+
   
 design:
   columns: '2' 
