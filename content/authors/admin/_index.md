@@ -70,7 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-Yiyang Zhang is a daul master stundent at Univerity of Michigan, majored in Quantitative Finance & Risk Management and Applied Statistics. His research and learning interests include quantitative trading in stock and future market, option pricing, machine learning and deep learning techniques, and statistical modeling. 
+Yiyang Zhang is a daul master student at Univerity of Michigan, majored in Quantitative Finance & Risk Management and Applied Statistics. His research and learning interests include quantitative trading in stock and future market, option pricing, machine learning and deep learning techniques, and statistical modeling. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
