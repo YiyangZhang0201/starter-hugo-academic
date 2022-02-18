@@ -11,7 +11,7 @@ weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Accomplish&shy;ments'
-subtitle:
+subtitle: Certification
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -26,7 +26,6 @@ item:
 - certificate_url: https://www.accaglobal.com
   date_end: ""
   date_start: "2019-06-01"
-  company_logo: org-gc
   description: "8/13 Passed"
   organization: the Association of Chartered Certified Accountants (ACCA)
   organization_url: https://www.accaglobal.com/gb/en.html
@@ -39,6 +38,9 @@ item:
   organization_url: https://www.edx.org
   title: FRM Level I
   url: https://my.garp.org/sfdcApp#!/exam_results
+  
+subtitle: Competition
+  
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
   date_start: "2020-07-01"
