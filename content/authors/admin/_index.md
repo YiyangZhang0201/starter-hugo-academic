@@ -21,6 +21,7 @@ interests:
 - Quantitative Trading
 - Statistical Modeling
 - Artificial Intelligence
+- Option Pricing
 
 # Education to show in About widget
 education:
