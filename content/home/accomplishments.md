@@ -78,7 +78,7 @@ item:
   description: "Silver Medal, Rank 77/3852. The method used is LightGBM & FFNN."
   organization: Kaggle
   organization_url: https://www.kaggle.com/
-  title: 'Optiver Realized Volatility Prediction ---- Silver Medal'
+  title: 'Optiver Realized Volatility Prediction --- Silver Medal'
   url: https://www.kaggle.com/c/optiver-realized-volatility-prediction/overview 
 
 - certificate_url: https://www.kaggle.com/c/g-research-crypto-forecasting/leaderboard
@@ -87,7 +87,7 @@ item:
   description: "Bronze Medal, Rank 145/2194. The method used is LightGBM."
   organization: Kaggle
   organization_url: https://www.kaggle.com/
-  title: 'G-Research Crypto Forecasting ---- Bronze Medal'
+  title: 'G-Research Crypto Forecasting --- Bronze Medal'
   url: https://www.kaggle.com/c/g-research-crypto-forecasting
   
 design:
