@@ -32,8 +32,8 @@ item:
   title: ACCA Student
   url: ""
 - certificate_url: https://www.garp.org/
-  date_end: "2021-12-01"
-  date_start: "2020-07-15"
+  date_end: ""
+  date_start: "2021-12-01"
   description: "FRM Level I Passed"
   organization: Global Association of Risk Professionals (GARP)
   organization_url: https://www.edx.org
@@ -81,6 +81,14 @@ item:
   title: 'Optiver Realized Volatility Prediction'
   url: https://www.kaggle.com/c/optiver-realized-volatility-prediction/overview 
 
+- certificate_url: https://www.kaggle.com/c/g-research-crypto-forecasting/leaderboard
+  date_end: ""
+  date_start: "2022-01-01"
+  description: "Bronze Medal, Rank 145/2194. The method used is LightGBM."
+  organization: Kaggle
+  organization_url: https://www.kaggle.com/
+  title: 'G-Research Crypto Forecasting'
+  url: https://www.kaggle.com/c/g-research-crypto-forecasting
   
 design:
   columns: '2' 
