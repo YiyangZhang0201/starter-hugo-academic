@@ -34,6 +34,7 @@ item:
 - certificate_url: https://www.garp.org/
   date_end: ""
   date_start: "2021-11-01"
+  description: "FRM Level I Passed"
   organization: Global Association of Risk Professionals (GARP)
   organization_url: https://www.edx.org
   title: FRM Level I
@@ -45,6 +46,14 @@ item:
   organization: Educational Testing Service
   organization_url: https://www.ets.org/
   title: 'TOEFL'
+  url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: "2020-01-01"
+  description: "GRE Score 324"
+  organization: Educational Testing Service
+  organization_url: https://www.ets.org/
+  title: 'GRE'
   url: ""
 
 design:
