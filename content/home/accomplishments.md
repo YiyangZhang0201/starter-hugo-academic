@@ -11,7 +11,7 @@ weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Accomplish&shy;ments'
-subtitle: Certification
+subtitle: 
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -55,6 +55,14 @@ item:
   organization_url: https://www.ets.org/
   title: 'GRE'
   url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: "2019-02-01"
+  description: "Python for Data Science, AI & Development"
+  organization: Coursera
+  organization_url: https://www.coursera.org/
+  title: 'Python for Data Science, AI & Development'
+  url: "https://www.coursera.org/account/accomplishments/verify/XBAL76VNQYZZ"
 
 design:
   columns: '2' 
