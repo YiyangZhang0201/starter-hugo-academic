@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.accaglobal.com
+- certificate_url: https://www.accaglobal.com/
   date_end: ""
   date_start: "2019-06-01"
   description: "8/13 Passed"
@@ -31,22 +31,20 @@ item:
   organization_url: https://www.accaglobal.com/gb/en.html
   title: ACCA Student
   url: ""
-- certificate_url: https://www.garp.org
+- certificate_url: https://www.garp.org/
   date_end: ""
   date_start: "2021-11-01"
   organization: Global Association of Risk Professionals (GARP)
   organization_url: https://www.edx.org
   title: FRM Level I
   url: https://my.garp.org/sfdcApp#!/exam_results
-  
-  
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+- certificate_url: 
+  date_end: ""
+  date_start: "2020-01-01"
+  description: "TOEFL Best Score 106"
+  organization: Educational Testing Service
+  organization_url: https://www.ets.org/
+  title: 'TOEFL'
   url: ""
 
 design:
