@@ -28,11 +28,11 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 90%
+- description: 100%
   icon: laptop-code
   icon_pack: fas
   name: Programming
-- description: 80%
+- description: 100%
   icon: subscript
   icon_pack: fas
   name: Mathematics
