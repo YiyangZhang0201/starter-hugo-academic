@@ -65,7 +65,7 @@ item:
   url: "https://www.coursera.org/account/accomplishments/verify/XBAL76VNQYZZ"
 - certificate_url: 
   date_end: ""
-  date_start: "2019-02-01"
+  date_start: "2019-04-01"
   description: "Data Analysis with Python"
   organization: Coursera
   organization_url: https://www.coursera.org/
