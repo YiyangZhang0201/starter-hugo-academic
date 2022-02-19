@@ -39,22 +39,6 @@ item:
   organization_url: https://www.edx.org
   title: FRM Level I
   url: https://my.garp.org/sfdcApp#!/exam_results
-- certificate_url: 
-  date_end: ""
-  date_start: "2020-01-01"
-  description: "TOEFL Best Score 106"
-  organization: Educational Testing Service
-  organization_url: https://www.ets.org/
-  title: 'TOEFL'
-  url: ""
-- certificate_url: 
-  date_end: ""
-  date_start: "2020-01-01"
-  description: "GRE Score 324"
-  organization: Educational Testing Service
-  organization_url: https://www.ets.org/
-  title: 'GRE'
-  url: ""
 - certificate_url: "https://www.coursera.org/account/accomplishments/verify/XBAL76VNQYZZ"
   date_end: ""
   date_start: "2019-02-01"
