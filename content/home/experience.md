@@ -87,7 +87,7 @@ experience:
         * Participated in the business plan analysis and research of the startup companies and built the single-store profitability financial model for profit forecasting.
         * Conducted fundamental analysis and financial analysis of select U.S. and Chinese companies.
  
-   - title: Analysis Intern
+  - title: Analysis Intern
     company: YunFeng Capital
     company_url: 'http://www.yfc.cn/'
     company_logo: yf
