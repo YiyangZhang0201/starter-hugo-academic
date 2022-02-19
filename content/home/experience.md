@@ -61,9 +61,31 @@ experience:
         * Researched  the  quantitative  strategy  of  quantitative  sub-funds  of  FOF  investment  and  conducted quantitative sub-fund investment feasibility analysis and evaluation.
         * Successfully  developed  a  stock  index  arbitrage  trading  strategy  and  an  alpha  strategy  based  on Equity-bond yield difference.
 
+
+  - title: Valuation Modeling Intern
+    company: Global Honest Investment Group
+    company_url: 'https://www.ghigcn.com/'
+    company_logo: ha
+    location: Guangzhou, China
+    date_start: '2019-07-01'
+    date_end: '2019-11-01'
+    description: |2-
+        Responsibilities include:  
+        
+        * Did the financial modeling and cash flow forecast for the company’s investment projects and assisted in making feasibility analysis reports.
  
- 
- 
+  - title: VC Project Intern
+    company: Promising Capital
+    company_url: 'http://www.promisingcapital.com/'
+    company_logo: rh
+    location: Shanghai, China
+    date_start: '2018-12-01'
+    date_end: '2019-03-01'
+    description: |2-
+        Responsibilities include:  
+        
+        * Participated in the business plan analysis and research of the startup companies and built the single-store profitability financial model for profit forecasting.
+        * Conducted fundamental analysis and financial analysis of select U.S. and Chinese companies.
  
  
 
