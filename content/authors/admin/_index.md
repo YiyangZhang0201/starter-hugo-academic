@@ -73,5 +73,7 @@ highlight_name: true
 
 Yiyang Zhang is a dual master's student at Univerity of Michigan, majoring in Quantitative Finance & Risk Management and Applied Statistics. His research and learning interests include quantitative trading in stock and futures markets, option pricing, machine learning and deep learning techniques, and statistical modeling. 
 
+He finished his undergraduate studies in finance at Lingnan College, Sun Yat-sen University. He is also one of the seven people who finished the special curriculum held by the college and earned the International Mathematical Class certification in the class of 2020. Besides the academic activity, he was also the college table tennis team captain in 2018 and 2019.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
