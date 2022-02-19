@@ -87,7 +87,17 @@ experience:
         * Participated in the business plan analysis and research of the startup companies and built the single-store profitability financial model for profit forecasting.
         * Conducted fundamental analysis and financial analysis of select U.S. and Chinese companies.
  
- 
+   - title: Analysis Intern
+    company: YunFeng Capital
+    company_url: 'http://www.yfc.cn/'
+    company_logo: yf
+    location: Hong Kong, China
+    date_start: '2018-10-01'
+    date_end: '2018-10-31'
+    description: |2-
+        Responsibilities include:  
+        
+        * Do financial analysis under instruction for selected H share stocks and help to write the analysis report.
 
 design:
   columns: '2'
