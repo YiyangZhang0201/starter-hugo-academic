@@ -59,7 +59,7 @@ item:
 - certificate_url: https://www.kaggle.com/c/optiver-realized-volatility-prediction/leaderboard
   date_end: "2022-01-01"
   date_start: "2021-06-28"
-  description: "Silver Medal, Rank 77/3852. The method used is LightGBM & FFNN."
+  description: "Silver Medal, top 2%, Rank 77/3852. The method used is LightGBM & FFNN."
   organization: Kaggle
   organization_url: https://www.kaggle.com/
   title: 'Optiver Realized Volatility Prediction --- Silver Medal'
