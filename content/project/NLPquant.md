@@ -27,7 +27,6 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
 ---
 
 In this project, we collected the news for stocks in SSE 50 Index of the Chinese stock market and use the sentiment analysis to do the multiclassification on the related news. The news will be classified to five different labels and each stands for different market sentiment related to the stocks. In this multi-class sentiment analysis task, we used BERT model and LSTM model. Then, we mark their prediction result on the new incoming news with different score based on the label and do the ranking based on the scores. Then, we have got several Rank factors based on this method and test its effectiveness by comparing its performance with the benchmark portfolio based on SSE 50 Index. The conclusion is the BERT model and LSTM model performs similarly on this task with accuracy around 75% and the Rank factors we got are effective Augmentation Index Factors. The IR of this ranking method factor is 0.459 and the IC is about 0.044, which means the factors coming from this ranking method has a relative strong ability to gain excess return.
