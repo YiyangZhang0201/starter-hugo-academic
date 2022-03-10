@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Stock Selection Alpha-Factor for Chinese Stock Market Based on Sentiment Analysis
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
