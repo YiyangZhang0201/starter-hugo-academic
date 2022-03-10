@@ -1,12 +1,12 @@
 ---
 title: Stock Selection Alpha-Factor for Chinese Stock Market Based on Sentiment Analysis
-summary: An example of using the in-built project page.
+summary: An implement of NLP skills in quantitative finance.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/YiyangZhang0201/EECS595-FINAL"
+external_link: ""
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -16,9 +16,9 @@ links:
 - icon: github
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://github.com/YiyangZhang0201/EECS595-FINAL
 url_code: ""
-url_pdf: ""
+url_pdf: "https://github.com/YiyangZhang0201/EECS595-FINAL/blob/main/Yiyang%20Zhang%20EECS%20595%20Final%20Project.pdf"
 url_slides: ""
 url_video: ""
 
