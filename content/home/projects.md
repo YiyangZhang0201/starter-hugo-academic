@@ -31,6 +31,8 @@ content:
     tag: Deep Learning
   - name: Financial Engineering
     tag: Financial Engineering
+  - name: Statistical Analysis
+    tag: Statistical Analysis
   - name: Other
     tag: Demo
 
