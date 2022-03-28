@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "Stock Volatility Prediction with Hybrid Model"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
