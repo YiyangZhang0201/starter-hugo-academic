@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://github.com/YiyangZhang0201/KAGGLE-OPTIVER/blob/main/Stock_Volatility_Prediction_with_Hybrid_Model.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
