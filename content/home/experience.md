@@ -22,6 +22,47 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+- title: Graduate Research Assitant
+    company:  Scheller College of Business, Georgia Institute of Technology
+    company_url: ''
+    company_logo: gt
+    location: Atlanta, GA, U.S.
+    date_start: '2023-08-14'
+    date_end: now
+    description: |2-
+        Responsibilities include:  
+        
+        * Help the research on multiple projects, topics including risk perception, event jump, machine learning and deep learning, and the linkage  between personality and company strategies.
+        * Teaching Assistant for class MGT 4070 and MGT 6070 in Fall 2023.
+
+  - title: Quantitative Trader
+    company:  CITIC Securities Co., Ltd.
+    company_url: ''
+    company_logo: zx
+    location: Remote, Beijing, China.
+    date_start: '2022-12-01'
+    date_end: '2023-03-30'
+    description: |2-
+        Responsibilities include:  
+        
+        * Research on a quantitative trading strategy based on the return skewness of the commodity futures. Use multiple methods in volatility control and portfolio optimization to improve the strategy's performance.
+        * Build hedging models for the quantitative trading system.
+        * Research on the compile method for the commodity future indices.
+
+  - title: Research Assitant
+    company:  Ross School of Business, University of Michigan
+    company_url: ''
+    company_logo: um
+    location: Ann Arbor, MI, U.S.
+    date_start: '2022-10-01'
+    date_end: '2023-01-30'
+    description: |2-
+        Responsibilities include:  
+        
+        * Calculate and analyze the CDS return and replicate algorithms based on provided papers.
+        * Prepare and Calculate the multi-factor data for the stock market.
+    
   - title: Quant Research Intern
     company:  Chain Bridge Fund LTD.
     company_url: ''
@@ -32,7 +73,7 @@ experience:
     description: |2-
         Responsibilities include:  
         
-        * Edit Open-sourced quantitative trading software and build required functions for crypocurrency trading.
+        * Edit Open-sourced quantitative trading software and build required functions for cryptocurrency trading.
         * Research and build quantitative trading strategies for cryptocurrency and corresponding futures.
         
   - title: Fix-Income Research Intern
@@ -45,8 +86,8 @@ experience:
     description: |2-
         Responsibilities include:  
         
-        * Do the data mining and statistical analysis on city investment bond.
-        * Research on portfolio optimization algorithm and use deep learning techniques to improve the trading strategy.
+        * Do the data mining and statistical analysis on city investment bonds.
+        * Research portfolio optimization algorithm and use deep learning techniques to improve the trading strategy.
 
   - title: Quant Research Intern
     company: GuangjinMeihao Fund Management Co.
