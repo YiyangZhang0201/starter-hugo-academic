@@ -35,8 +35,8 @@ content:
     tag: Economy
   - name: Statistics
     tag: Statistics
-  - name: Mathmetics
-    tag: Mathmetics
+  - name: Mathematics
+    tag: Mathematics
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
