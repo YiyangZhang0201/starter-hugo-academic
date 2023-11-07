@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-- title: Graduate Research Assitant
+- title: Graduate Research Assistant
     company:  Scheller College of Business, Georgia Institute of Technology
     company_url: ''
     company_logo: gt
