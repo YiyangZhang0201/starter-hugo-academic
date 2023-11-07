@@ -23,7 +23,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-
+  - title: Graduate Research Assistant
+    company:  Scheller College of Business, Georgia Institute of Technology
+    company_url: ''
+    company_logo: gt
+    location: Atlanta, GA, U.S.
+    date_start: '2023-08-14'
+    date_end: now
+    description: |2-
+        Responsibilities include:  
+        
+        * Help the research on multiple projects, topics including risk perception, event jump, machine learning and deep learning, and the linkage  between personality and company strategies.
+        * Teaching Assistant for class MGT 4070 and MGT 6070 in Fall 2023.
 
   - title: Quantitative Trader
     company:  CITIC Securities Co., Ltd.
