@@ -6,26 +6,29 @@ title: Yiyang Zhang
 superuser: true
 
 # Role/position/tagline
-role: MFE & MSc Student at University of Michigan
+role: Ph.D. Student in Finance
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Michigan
-  url: https://umich.edu/
+- name: Georgia Institute of Technology
+  url: https://www.scheller.gatech.edu/directory/phd/zhangy/index.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include quantitative trading, statistical modeling and deep learning.
 
 # Interests to show in About widget
 interests:
+- Asset Pricing
 - Quantitative Trading
 - Statistical Modeling
 - Artificial Intelligence
-- Option Pricing
 
 # Education to show in About widget
 education:
   courses:
+  - course: Ph.D. Student in Finance
+    institution: Georgia Institute of Technology
+    year: now
   - course: MSc in Applied Statistics
     institution: University of Michigan
     year: 2023
@@ -65,8 +68,8 @@ email: ""
 highlight_name: true
 ---
 
-Yiyang Zhang is a dual master's student at Univerity of Michigan, majoring in Quantitative Finance & Risk Management and Applied Statistics. His research and learning interests include quantitative trading in stock and futures markets, option pricing, machine learning and deep learning techniques, and statistical modeling. 
+Yiyang Zhang is currently pursuing a Ph.D. in Finance at Scheller College of Business, Georgia Institute of Technology. Before this, he obtained two master's degrees from the University of Michigan, specializing in Quantitative Finance & Risk Management and Applied Statistics. His research interests lie in asset pricing, and he also has a keen interest in quantitative trading in stock and futures markets, option pricing, machine learning and deep learning techniques, and statistical modeling.
 
-He finished his undergraduate studies in finance at Lingnan College, Sun Yat-sen University. He is also one of the seven people who finished the special curriculum held by the college and earned the International Mathematical Class certification in the class of 2020. Besides the academic activity, he was also the college table tennis team captain in 2018 and 2019. And he led the team to its best performance in the last decade.
+Yiyang completed his undergraduate studies in finance at Lingnan College, Sun Yat-sen University, and was one of seven individuals to earn the International Mathematical Class certification offered by the college in 2020. In addition to his academic pursuits, Yiyang was the captain of the college's table tennis team in 2018 and 2019, leading the team to its best performance in the last decade.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
