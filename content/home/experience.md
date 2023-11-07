@@ -25,6 +25,20 @@ experience:
 
 
 
+  - title: Quantitative Trader
+    company:  CITIC Securities Co., Ltd.
+    company_url: ''
+    company_logo: zx
+    location: Remote, Beijing, China.
+    date_start: '2022-12-01'
+    date_end: '2023-03-30'
+    description: |2-
+        Responsibilities include:  
+        
+        * Research on a quantitative trading strategy based on the return skewness of the commodity futures. Use multiple methods in volatility control and portfolio optimization to improve the strategy's performance.
+        * Build hedging models for the quantitative trading system.
+        * Research on the compile method for the commodity future indices.
+
   - title: Research Assitant
     company:  Ross School of Business, University of Michigan
     company_url: ''
