@@ -24,6 +24,19 @@ date_format: Jan 2006
 experience:
 
 
+
+  - title: Research Assitant
+    company:  Ross School of Business, University of Michigan
+    company_url: ''
+    company_logo: um
+    location: Ann Arbor, MI, U.S.
+    date_start: '2022-10-01'
+    date_end: '2023-01-30'
+    description: |2-
+        Responsibilities include:  
+        
+        * Calculate and analyze the CDS return and replicate algorithms based on provided papers.
+        * Prepare and Calculate the multi-factor data for the stock market.
     
   - title: Quant Research Intern
     company:  Chain Bridge Fund LTD.
