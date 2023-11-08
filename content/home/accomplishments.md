@@ -65,15 +65,15 @@ item:
   title: 'Optiver Realized Volatility Prediction --- Silver Medal'
   url: https://www.kaggle.com/c/optiver-realized-volatility-prediction/overview 
 
-- certificate_url: https://www.kaggle.com/c/g-research-crypto-forecasting/leaderboard
+- certificate_url: https://www.kaggle.com/clarkzhang0201
   date_end: ""
   date_start: "2022-01-01"
-  description: "Bronze Medal, Rank 145/2194. The method used is LightGBM."
+  description: "G-Research Crypto Forecasting: Bronze Medal & Optiver Realized Volatility Prediction: Silver Medal"
   organization: Kaggle
   organization_url: https://www.kaggle.com/
-  title: 'G-Research Crypto Forecasting --- Bronze Medal'
+  title: 'Competitions Expert'
   url: https://www.kaggle.com/c/g-research-crypto-forecasting
   
 design:
-  columns: '2' 
+  columns: '1' 
 ---
