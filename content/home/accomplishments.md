@@ -68,10 +68,13 @@ item:
 - certificate_url: https://www.kaggle.com/clarkzhang0201
   date_end: ""
   date_start: "2022-01-01"
-  description: "G-Research Crypto Forecasting: Bronze Medal & Optiver Realized Volatility Prediction: Silver Medal"
+  description: |2-
+        Competitions Results:  
+        * Optiver Realized Volatility Prediction: Silver Medal
+        * G-Research Crypto Forecasting: Bronze Medal 
   organization: Kaggle
   organization_url: https://www.kaggle.com/
-  title: 'Competitions Expert'
+  title: 'Kaggle Competitions Expert'
   url: https://www.kaggle.com/c/g-research-crypto-forecasting
   
 design:
