@@ -141,5 +141,5 @@ experience:
         * Do financial analysis under instruction for selected H share stocks and help to write the analysis report.
 
 design:
-  columns: '2'
+  columns: '3'
 ---
