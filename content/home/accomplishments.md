@@ -70,9 +70,10 @@ item:
   date_start: "2022-01-01"
   description: |2-
   
-    Competitions Results:  
-        * Optiver Realized Volatility Prediction: Silver Medal
-        * G-Research Crypto Forecasting: Bronze Medal 
+      Competitions Results:  
+      * Optiver Realized Volatility Prediction: Silver Medal
+      * G-Research Crypto Forecasting: Bronze Medal
+  
   organization: Kaggle
   organization_url: https://www.kaggle.com/
   title: 'Kaggle Competitions Expert'
