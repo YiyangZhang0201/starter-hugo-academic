@@ -34,7 +34,7 @@ experience:
         Responsibilities include:  
         
         * Help the research on multiple projects, topics including risk perception, event jump, machine learning and deep learning, and the linkage  between personality and company strategies.
-        * Teaching Assistant for class MGT 4070 and MGT 6070 in Fall 2023.
+        * Teaching Assistant for class MGT 4070 International Finance (Undergraduate Section) and MGT 6070 International Finance (MBA section) in Fall 2023.
 
   - title: Quantitative Trader
     company:  CITIC Securities Co., Ltd.
