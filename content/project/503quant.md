@@ -3,6 +3,7 @@ title: A Factor-Based Alpha Investment Strategy Using Machine Learning
 summary: Trying to find alpha-factors for stock market use Machine Learning and build trading strategy based on the factors we got.
 tags:
 - Financial Engineering
+- Deep Learning
 date: "2022-04-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
