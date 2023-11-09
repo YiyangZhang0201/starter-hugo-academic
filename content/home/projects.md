@@ -27,7 +27,7 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
+  - name: Machine Learning & Deep Learning
     tag: Deep Learning
   - name: Financial Engineering
     tag: Financial Engineering
