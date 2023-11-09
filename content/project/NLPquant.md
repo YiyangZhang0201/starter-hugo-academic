@@ -3,6 +3,7 @@ title: Stock Selection Alpha-Factor for Chinese Stock Market Based on Sentiment 
 summary: An implement of NLP skills in quantitative finance.
 tags:
 - Financial Engineering
+- Deep Learning
 date: "2021-12-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
