@@ -14,7 +14,7 @@ organizations:
   url: https://www.scheller.gatech.edu/directory/phd/zhangy/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include quantitative trading, statistical modeling and deep learning.
+bio: My research interests include Asset pricing, Macro-economics, Quantitative trading, Statistical modeling and Deep learning.
 
 # Interests to show in About widget
 interests:
