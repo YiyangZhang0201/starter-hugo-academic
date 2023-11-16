@@ -1,6 +1,6 @@
 ---
 title: Analysis Report on Robinhood Markets
-summary: Analysis the Robinhood Market from the following aspects: Management, Business, Stock Data, Financial Statements and Valuation
+summary: Analysis the Robinhood Market from the following aspects, include Management, Business, Stock Data, Financial Statements and Valuation
 tags:
 - Finance or Economy
 date: "2022-04-15T00:00:00Z"
