@@ -33,8 +33,8 @@ content:
     tag: Financial Engineering
   - name: Statistical Analysis
     tag: Statistical Analysis
-  - name: Other
-    tag: Demo
+  - name: Finance or Economy
+    tag: Finance or Economy
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
