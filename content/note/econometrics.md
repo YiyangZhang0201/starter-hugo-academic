@@ -34,7 +34,6 @@ This note contains the following contents:
   * Mathematical Review
   * Regression
   * IV Method
-  * Estimator Evaluation
   * Differences in Differences
   * Synthetic Control
   * Nonparametric Method
