@@ -1,6 +1,6 @@
 ---
 title: Note for Econometrics I
-summary: This note is based on my learning at the GaTech, ECON 7022 and my self-study on these topics. Thanks a lot to Professor Karen Yan's excellent teaching!
+summary: This note is based on my learning at the GaTech and my self-study on these topics. Thanks a lot to Professor Karen Yan's excellent teaching!
 tags:
 - Statistics
 - Economy
