@@ -33,7 +33,7 @@ url_video: ""
 This note contains the following contents: 
   * Mathematical Review
   * Regression
-  * IV Method
+  * Endogeneity
   * Differences in Differences
   * Synthetic Control
   * Nonparametric Method
