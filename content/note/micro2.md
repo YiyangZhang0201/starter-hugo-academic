@@ -16,11 +16,9 @@ links:
 - icon: github
   icon_pack: fab
   name: Follow
-  url: https://drive.google.com/file/d/13k8DJCYugc2PP8-jVbLsyTEwtU0dLZDu/view?usp=sharing](https://flowus.cn/share/8bb146c2-8839-4acf-b7e1-16087c891ee4
-【FlowUs 息流】Micro-Econ Notes II)
+  url: https://drive.google.com/file/d/13k8DJCYugc2PP8-jVbLsyTEwtU0dLZDu/view?usp=sharing](https://flowus.cn/share/8bb146c2-8839-4acf-b7e1-16087c891ee4【FlowUs 息流】Micro-Econ Notes II)
 url_code: ""
-url_pdf: "https://drive.google.com/file/d/13k8DJCYugc2PP8-jVbLsyTEwtU0dLZDu/view?usp=sharing](https://flowus.cn/share/8bb146c2-8839-4acf-b7e1-16087c891ee4
-【FlowUs 息流】Micro-Econ Notes II)"
+url_pdf: "https://drive.google.com/file/d/13k8DJCYugc2PP8-jVbLsyTEwtU0dLZDu/view?usp=sharing](https://flowus.cn/share/8bb146c2-8839-4acf-b7e1-16087c891ee4【FlowUs 息流】Micro-Econ Notes II)"
 url_slides: ""
 url_video: ""
 
