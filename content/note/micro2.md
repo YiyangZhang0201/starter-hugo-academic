@@ -1,6 +1,6 @@
 ---
-title: Note for Micro-Economics I
-summary: This note is based on my learning at the Gatech and reviewing several different textbooks. Thanks a lot to Professor Hustin Burkett's excellent teaching!
+title: Note for Micro-Economics II
+summary: This note is based on my learning at the Gatech and reviewing several different textbooks. Thanks a lot to Professor Justin Burkett's excellent teaching!
 tags:
 - Economy
 date: "2023-11-30T00:00:00Z"
