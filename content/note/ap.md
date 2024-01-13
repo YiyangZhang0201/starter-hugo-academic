@@ -21,4 +21,4 @@ image:
 
 This note contains the following contents: 
   * Empirical Asset Pricing: 
-  * Theory of Asset Pricing: https://flowus.cn/share/20ff4386-2668-4d3b-be28-5983c36ae244【FlowUs 息流】Asset Pricing Theory Note
+  * Theory of Asset Pricing: https://flowus.cn/clarkzhang/share/20ff4386-2668-4d3b-be28-5983c36ae244【FlowUs 息流】Asset Pricing Theory Note
