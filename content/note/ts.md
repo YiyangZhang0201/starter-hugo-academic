@@ -1,6 +1,6 @@
 ---
 title: Note for Time Series Analysis
-summary: This note is based on my learning at the University of Michigan: Stats 509. And my learning at Georgia Tech, ISYE 6402. The empirical parts are prepared by myself using Python.
+summary: This note is based on my learning Stats 509 at the University of Michigan. And my learning at Georgia Tech, ISYE 6402. The empirical parts are prepared by myself using Python.
 tags:
 - Statistics
 date: "2024-02-13T00:00:00Z"
