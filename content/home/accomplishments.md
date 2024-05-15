@@ -63,7 +63,8 @@ item:
   
       Competitions Results:  
       * Optiver Realized Volatility Prediction: Silver Medal
-      * G-Research Crypto Forecasting: Bronze Medal
+      * G-Research Crypto Forecasting: Silver Medal
+      * LLM Prompt Recovery: Silver Medal
   
   organization: Kaggle
   organization_url: https://www.kaggle.com/
