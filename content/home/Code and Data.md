@@ -16,7 +16,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - Data and Code
+      - Code and Data
     tag: ''
     category: ''
     publication_type: ''
