@@ -2593,3 +2593,7 @@ async for snap in blp.live(['ESA Index', 'NQA Index'], max_cnt=2):
 ```python
 
 ```
+
+# Colab Link
+
+This post was created with Colab. The orginal files can be found at https://colab.research.google.com/drive/1PAGHVgH5Hp2MjuEtFeYUEW5GxIsULX7g?usp=sharing
