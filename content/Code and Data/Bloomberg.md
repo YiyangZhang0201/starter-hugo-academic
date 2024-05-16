@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Bloomberg API Setup and Usage Examples
 cms_exclude: true
 
 # View.
