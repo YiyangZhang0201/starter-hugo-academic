@@ -12,6 +12,34 @@ image:
 ---
 
 In building this Bloomberg Api Sample File, I refered to multiple resourses from XBBG example, Stack Overflows and Bloomberg Official API document. I updated all the package info and codes to the newest version. I hope this sample file can be helpful.
+# TOC
+
+1 [Prepare](#Prepare)<br>
+  1.1 [Prepare Terminal Device](#Prepare-Terminal-Device)<br>
+  1.2 [Prepare API environment](#Prepare-API-environment)<br>
+   1.2.1 [Easier to use package: XBBG](#Easier-to-use-package%3A-XBBG)<br>
+   1.2.2 [Raw API](#Raw-API)<br>
+ 2 [Data Collection Examples](#Data-Collection-Examples)<br>
+  2.2 [Bloomberg Data Point](#Bloomberg-Data-Point)<br>
+  2.3 [Bloomberg Data Set](#Bloomberg-Data-Set)<br>
+   2.3.2 [Dividend Data](#Dividend-Data)<br>
+   2.3.3 [Earning Data](#Earning-Data)<br>
+  2.4 [Bloomberg Historical Data](#Bloomberg-Historical-Data)<br>
+   2.4.2 [Stock Data](#Stock-Data)<br>
+   2.4.3 [Option Data](#Option-Data)<br>
+  2.5 [Bloomberg Intraday Bars](#Bloomberg-Intraday-Bars)<br>
+   2.5.2 [Stock Data](#Stock-Data)<br>
+   2.5.3 [Option Data](#Option-Data)<br>
+  2.6 [Bloomberg Intraday Tick Data](#Bloomberg-Intraday-Tick-Data)<br>
+   2.6.2 [Stock Tick Level Data](#Stock-Tick-Level-Data)<br>
+   2.6.3 [Option Tick Level Data](#Option-Tick-Level-Data)<br>
+   2.6.4 [Get more Info of Options](#Get-more-Info-of-Options)<br>
+ 3 [Other Useful Piplines](#Other-Useful-Piplines)<br>
+  3.2 [Raw API](#Raw-API)<br>
+  3.3 [VWAP for Intraday Bar Data](#VWAP-for-Intraday-Bar-Data)<br>
+  3.4 [Total Traded Volume for Certain Period](#Total-Traded-Volume-for-Certain-Period)<br>
+  3.5 [Subscription](#Subscription)<br>
+
 
 # Prepare
 
