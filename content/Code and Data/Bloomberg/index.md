@@ -1,8 +1,14 @@
 ---
 title: Bloomberg API Usage
-
-date: 2024-05-16
-authors: Yiyang Zhang
+authors:
+- Yiyang Zhang
+tags: []
+categories: []
+projects: []
+date: "2024-05-16T00:00:00Z"
+image:
+  caption: ""
+  focal_point: ""
 ---
 
 In building this Bloomberg Api Sample File, I refered to multiple resourses from XBBG example, Stack Overflows and Bloomberg Official API document. I updated all the package info and codes to the newest version. I hope this sample file can be helpful.
