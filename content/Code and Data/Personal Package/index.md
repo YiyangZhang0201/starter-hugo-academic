@@ -21,6 +21,8 @@ This is the personal package I built for academic research convenience. I will u
 
 # How to Setup <a name="Setup"></a>
 
+Please ignore the version number shown in the featured figure and use the following code to set it up.
+
 ```{python}
 pip install yiyangzhang0201
 import yiyangzhang0201
