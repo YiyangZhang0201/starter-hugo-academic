@@ -118,4 +118,4 @@ The function stata_result_latex will generate:
   * A file named "results.tex" contains the code for the academic format latex table.
 Because the original STATA output is too long, I won't show it here, I will just show the latex table generated, which is shown in the following picture.
 
-
+![png](./index_1_0.png)
