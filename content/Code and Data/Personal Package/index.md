@@ -52,7 +52,7 @@ The functions included are:
 This part contains the functions related to converting regression results from Python/Stata to an academic table form.
 
 ### Stata to Latex
-First, we need to use the pystata package to link the python to STATA.
+First, we need to use the pystata package to link the python to STATA. **This function needs to be run in Notebook Environment.**
 ```{python}
 !pip install pystata
 
