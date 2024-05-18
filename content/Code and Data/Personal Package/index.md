@@ -96,4 +96,26 @@ I will use following data as an example:
 %%stata
 sysuse auto, clear
 ```
+```{python}
+code = ["""
+        reg mpg price
+        """,
+        """
+            reg mpg price weight
+        """,
+        """
+            reg mpg price i.foreign
+        """,
+        """
+            reg mpg price weight i.foreign i.trunk
+        """]
+
+from yiyangzhang0201.regcov import stata_result_latex
+stata_result_latex(code, fe_list = [[],[],['Foreign'], ['Foreign', 'Trunk']], title = 'Function Test')
+```
+The function stata_result_latex will generate:
+  * Original STATA outputs in the cell output.
+  * A file named "results.tex" contains the code for the academic format latex table.
+Because the original STATA output is too long, I won't show it here, I will just show the latex table generated, which is shown in the following picture.
+
 
