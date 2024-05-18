@@ -60,18 +60,28 @@ import stata_setup
 stata_setup.config("C:/Program Files/Stata18/", "mp")
 ```
  ___  ____  ____  ____  ____ ®
+ 
  /__    /   ____/   /   ____/      18.0
+ 
 ___/   /   /___/   /   /___/       MP—Parallel Edition
 
+
  Statistics and Data Science       Copyright 1985-2023 StataCorp LLC
+ 
                                    StataCorp
+                                   
                                    4905 Lakeway Drive
+                                   
                                    College Station, Texas 77845 USA
+                                   
                                    800-STATA-PC        https://www.stata.com
+                                   
                                    979-696-4600        stata@stata.com
 
 Stata license: Unlimited-user 2-core network, expiring  8 Aug 2024
+
 Serial number: 501809315448
+
   Licensed to: Scheller College of Business
                GT
 
