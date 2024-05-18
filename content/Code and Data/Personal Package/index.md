@@ -29,5 +29,22 @@ import yiyangzhang0201
 # Functions <a name="Functions"></a>
 ## File Operation <a name="fileop"></a>
 
+This part contains the functions related to file operations.
+
+```{python}
+from yiyangzhang0201.fileop import *
+
+get_subfolders(parent_path)
+get_files(folder_names)
+create_new_folder(path)
+copy_file(file_path, new_fold)
+```
+The functions included are:
+* Get subfolders under a folder and return a list containing all the subfolders.
+* Get all the files under a folder and return a list containing all the files.
+* Create a new folder if it does not exist.
+* Copy a file to the given folder; if the folder does not exist, create it.
 
 ## Regression Result Convert <a name="regconv"></a>
+
+This part contains the functions related to converting regression results from Python to an academic table form.
