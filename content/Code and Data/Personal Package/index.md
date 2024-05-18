@@ -116,6 +116,8 @@ stata_result_latex(code, fe_list = [[],[],['Foreign'], ['Foreign', 'Trunk']], ti
 The function stata_result_latex will generate:
   * Original STATA outputs in the cell output.
   * A file named "results.tex" contains the code for the academic format latex table.
+  * Note that the _code_ is a list containing all the regression functions you want to run. And the _fe_list_ is a list that each element of it is also a list, which contains the fixed effect for the corresponding function.
+  * The length of the _code_ should match the length of _fe_list_.
 
 Because the original STATA output is too long, I won't show it here, I will just show the latex table generated, which is shown in the following picture.
 
