@@ -1,6 +1,6 @@
 ---
 title: Note for Micro-Economics
-summary: The base of this note is my learning content at Georgia Tech courses: Econ 7022 and 7023. This note is built from the lecture notes from the above courses based on my own understanding and refers to multiple textbooks. Part of the proofs and calculations are done by myself. So, if you find there are any mistakes, please get in touch with me.
+summary: Topics about Decision Making of Individual and Game Theory.
 
 tags:
 - Economy
@@ -30,12 +30,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 ---
 
-This note contains the following contents: 
-  * Preferences, Utility and Choice
-  * Consumer Choice
-  * Convexity of Preference and Quasiconcavity of Utility
-  * Demand/Consumer/Classical Demand Theory
-  * Indirect Utility
-  * Expenditure Minimization Problem
-  * Choice Under Uncertainty
-  * Non-EU Preference
+The base of this note is my learning content at Georgia Tech courses: Econ 7022 and 7023. This note is built from the lecture notes from the above courses based on my own understanding and refers to multiple textbooks. Part of the proofs and calculations are done by myself. So, if you find there is any mistakes, please get in touch with me.
