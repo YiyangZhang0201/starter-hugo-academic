@@ -17,9 +17,9 @@ links:
 - icon: github
   icon_pack: fab
   name: Follow
-  url: https://drive.google.com/file/d/13k8DJCYugc2PP8-jVbLsyTEwtU0dLZDu/view?usp=sharing
+  url: https://drive.google.com/file/d/14iz738uHOCkjHe-Sy5MCVLSSSnZMbFIX/view?usp=sharing
 url_code: ""
-url_pdf: "https://drive.google.com/file/d/13k8DJCYugc2PP8-jVbLsyTEwtU0dLZDu/view?usp=sharing"
+url_pdf: "https://drive.google.com/file/d/14iz738uHOCkjHe-Sy5MCVLSSSnZMbFIX/view?usp=sharing"
 url_slides: ""
 url_video: ""
 
