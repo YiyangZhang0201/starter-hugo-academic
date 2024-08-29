@@ -28,3 +28,9 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 ---
+
+
+This note contains the following topics: 
+  * Macro-Finance
+  * Option Trading
+  * Market Microstructure
