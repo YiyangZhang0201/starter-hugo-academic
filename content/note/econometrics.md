@@ -17,9 +17,9 @@ links:
 - icon: github
   icon_pack: fab
   name: Follow
-  url: https://personal-94.gitbook.io/note-for-econometrics-1/
+  url: https://drive.google.com/file/d/1w8yhotG7tT7DypJphDCdcnBUPLOe7X9N/view?usp=sharing
 url_code: ""
-url_pdf: "https://personal-94.gitbook.io/note-for-econometrics-1/"
+url_pdf: "https://drive.google.com/file/d/1w8yhotG7tT7DypJphDCdcnBUPLOe7X9N/view?usp=sharing"
 url_slides: ""
 url_video: ""
 
