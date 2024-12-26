@@ -1,10 +1,10 @@
 ---
-title: Note for Econometrics I
-summary: This note is based on my learning at the GaTech and my self-study on these topics. Thanks a lot to Professor Karen Yan's excellent teaching!
+title: Note for Econometrics
+summary: This note is based on my learning at the GaTech Econ 7022 & 7023 and my self-study on these topics. Thanks a lot to Professor Karen Yan and Professor Haizeng Li's excellent teaching!
 tags:
 - Statistics
 - Economy
-date: "2022-12-15T00:00:00Z"
+date: "2024-12-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
