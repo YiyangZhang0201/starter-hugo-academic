@@ -1,38 +1,37 @@
 ---
-title: "Stock Volatility Prediction with Hybrid Model of FFNN and Lightgbm"
+title: "Breaking the Mirror: Volatility and Pricing Anomalies in Index and ETF Options"
 authors:
 - admin
-date: "2022-04-15"
-doi: "10.1109/ICSP54964.2022.9778512"
+date: "2025-01-06"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-05-24T00:00:00Z"
+publishDate: "2025-01-06T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "2022 7th International Conference on Intelligent Computing and Signal Processing (ICSP)"
-publication_short: "IEEE"
+publication: "Ph.D. First Year Paper"
+publication_short: ""
 
-abstract: The existing prediction system for realized volatility is limited and cannot effectively de-scribe the stocks’ highly complex and nonlinear characters. In this study, we built a hybrid model by combining Feedforward Neural Network (FFNN) with Light Gradient Boosting Machine (LightGBM). Then we extract three important categories of features based on high frequency stock trading and quotation data, feed them into the hybrid model for predicting volatility, and test it on the real-market data in the next three months. We also compared our hybrid model with other models in the experiment process. Compared with traditional machine learning models like Naïve Bayes and SVM, or the single Lightgbm model, our hybrid model has the lowest RMSPE result of 0.192. And in the following three-month realmarket data test, our hybrid model’s RMSPE result remained in range [0.199, 0.219]. This test result further demonstrates the accuracy and robustness of our model’s out-of-sample performance.
+abstract: This study identifies empirical differences between Index options (European-style) and ETF options (American-style) matched on maturities and strike prices. Despite ETFs closely tracking the Index, two major anomalies arise: (1) Index options enter uninterrupted in-the-money (ITM) status later than their ETF counterparts, and (2) Index options exhibit significantly lower implied volatility — both contradict traditional theory. The delayed ITM status is explained by the higher intraday realized volatility of the Index; however, this conflicts with the lower implied volatility, which is partly driven by differences in liquidity and speculative trading. This volatility gap signals potential mispricing, with Index options underpriced and ETF options overpriced. These mispricing and the divergence between realized and implied volatilities offer profitable opportunities for a market-neutral volatility-spread trading strategy.
 
 # Summary. An optional shortened abstract.
-summary: Realized volatility, High Frequency Data, LightGBM, FFNN, RMSPE, real-market test
-
+summary: Index options, ETF options, implied volatility, realized volatility, in-the-money (ITM), liquidity, mispricing
 tags:
 - Source Themes
 featured: true
 
-url_pdf: 'https://github.com/YiyangZhang0201/KAGGLE-OPTIVER/blob/main/Stock_Volatility_Prediction_with_Hybrid_Model.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://drive.google.com/file/d/1vN3NOU3wnjRcOQ83wjfe9abfw8z2nXoY/view?usp=drive_link'
 url_source: ''
 url_video: ''
 
@@ -41,7 +40,7 @@ url_video: ''
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/fiXLQXAhCfk)'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -56,7 +55,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
