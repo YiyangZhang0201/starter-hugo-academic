@@ -25,7 +25,7 @@ summary: Realized volatility, High Frequency Data, LightGBM, FFNN, RMSPE, real-m
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 url_pdf: 'https://github.com/YiyangZhang0201/KAGGLE-OPTIVER/blob/main/Stock_Volatility_Prediction_with_Hybrid_Model.pdf'
 url_code: ''
@@ -41,7 +41,7 @@ url_video: ''
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/fiXLQXAhCfk)'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -56,7 +56,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
