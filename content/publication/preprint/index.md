@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: "Ph.D. First Year Milestone Paper"
 publication_short: ""
 
-abstract: This study identifies empirical differences between Index options 
+abstract: This study identifies empirical differences between Index options (European-style) and ETF options (American-style) matched on maturities and strike prices. Despite ETFs closely tracking the Index, two major anomalies arise: (1) Index options enter uninterrupted in-the-money (ITM) status later than their ETF counterparts, and (2) Index options exhibit significantly lower implied volatility, both contradict traditional theory. 
 
 # Summary. An optional shortened abstract.
 summary: Index options, ETF options, implied volatility, realized volatility, in-the-money (ITM), liquidity, mispricing
