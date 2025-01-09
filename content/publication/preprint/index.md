@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: "Ph.D. First Year Milestone Paper"
 publication_short: ""
 
-abstract: This study identifies empirical differences between Index options (European-style) and ETF options (American-style) matched on maturities and strike prices. Despite ETFs closely tracking the Index, two major anomalies arise: (1) Index options enter uninterrupted in-the-money (ITM) status later than their ETF counterparts, and (2) Index options exhibit significantly lower implied volatility, both contradict traditional theory. 
+abstract: This study identifies empirical differences between Index options (European-style) and ETF options (American-style) matched on maturities and strike prices. Despite ETFs closely tracking the Index, two major anomalies arise, (1) Index options enter uninterrupted in-the-money (ITM) status later than their ETF counterparts, and (2) Index options exhibit significantly lower implied volatility, both contradict traditional theory. The delayed ITM status is explained by the higher intraday realized volatility of the Index; however, this conflicts with the lower implied volatility, which is partly driven by differences in liquidity and speculative trading. This volatility gap signals potential mispricing, with Index options underpriced and ETF options overpriced. These mispricing and the divergence between realized and implied volatilities offer profitable opportunities for a market-neutral volatility-spread trading strategy.
 
 # Summary. An optional shortened abstract.
 summary: Index options, ETF options, implied volatility, realized volatility, in-the-money (ITM), liquidity, mispricing
