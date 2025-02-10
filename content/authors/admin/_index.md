@@ -35,8 +35,7 @@ education:
   - course: MFE in Quantitative Finance and Risk Management
     institution: University of Michigan
     year: 2023
-  - course: BSc in Economics
-    Honor: International Mathematical Class Certification
+  - course: Bachelor of Science in Economics with International Mathematical Class Certification (Graduate Honor)
     institution: Sun Yat-sen University 
     year: 2020
 
