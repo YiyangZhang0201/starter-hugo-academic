@@ -29,7 +29,7 @@ experience:
     company_logo: gt
     location: Atlanta, GA, U.S.
     date_start: '2023-08-14'
-    date_end: 'now
+    date_end: 'now'
     description: |2-
         Responsibilities include:  
         
