@@ -36,6 +36,7 @@ education:
     institution: University of Michigan
     year: 2023
   - course: BSc in Economics
+    Honor: International Mathematical Class Certification
     institution: Sun Yat-sen University 
     year: 2020
 
