@@ -29,12 +29,26 @@ experience:
     company_logo: gt
     location: Atlanta, GA, U.S.
     date_start: '2023-08-14'
-    date_end: '2028-06-30'
+    date_end: 'now
     description: |2-
         Responsibilities include:  
         
         * Help the research on multiple projects, topics including risk perception, event jump, machine learning and deep learning, and the linkage  between personality and company strategies.
-        * Teaching Assistant for class MGT 4070 International Finance (Undergraduate Section) and MGT 6070 International Finance (MBA section) in Fall 2023.
+      
+  - title: Graduate Teaching Assistant
+    company:  Scheller College of Business, Georgia Institute of Technology
+    company_url: ''
+    company_logo: gt
+    location: Atlanta, GA, U.S.
+    date_start: '2023-08-14'
+    date_end: 'now'
+    description: |2-
+        Responsibilities include:
+    
+        * Teaching Assistant for MGT 4070 International Finance (Undergraduate Section) and MGT 6070 International Finance (MBA section) in Fall 2023 and 2024.
+        * Teaching Assistant for MGT 4068 Fixed Income (Undergraduate Section) in Spring 2025.
+        * Outstanding Graduate Teaching Assistant Award for the Scheller College of Business in the Year 2024.
+
 
   - title: Quantitative Trader
     company:  CITIC Securities Co., Ltd.
