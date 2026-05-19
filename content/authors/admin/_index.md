@@ -6,7 +6,7 @@ title: Yiyang Zhang
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student in Finance
+role: Ph.D. Candidate in Finance
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,19 +14,20 @@ organizations:
   url: https://www.scheller.gatech.edu/directory/phd/zhangy/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Asset pricing, Macro-economics, Quantitative trading, Statistical modeling and Deep learning.
+bio: My research interests include Option Market, Asset Pricing, Institutional Investors, Behavioral Finance, and Artificial Intelligence.
 
 # Interests to show in About widget
 interests:
+- Option Market
 - Asset Pricing
-- Quantitative Trading
-- Statistical Modeling
+- Institutional Investors
+- Behavioral Finance
 - Artificial Intelligence
 
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. Student in Finance
+  - course: Ph.D. Candidate in Finance
     institution: Georgia Institute of Technology
     year: now
   - course: MSc in Applied Statistics
@@ -68,8 +69,10 @@ email: ""
 highlight_name: true
 ---
 
-Yiyang Zhang is currently pursuing a Ph.D. in Finance at Scheller College of Business, Georgia Institute of Technology. Before this, he obtained two master's degrees from the University of Michigan, specializing in Quantitative Finance & Risk Management and Applied Statistics. His research interests lie in asset pricing, and he also has a keen interest in quantitative trading in stock and futures markets, option pricing, machine learning and deep learning techniques, and statistical modeling.
+Yiyang Zhang is a Fourth-year Ph.D. candidate in Finance at the Scheller College of Business, Georgia Institute of Technology, advised by Dr. Alex Hsu and Dr. Xindi He. His research lies at the intersection of empirical asset pricing and the options market, with a particular focus on the activities of institutional investors and on behavioral mechanisms that shape asset prices.
 
-Yiyang completed his undergraduate studies in finance at Lingnan College, Sun Yat-sen University, and was one of seven individuals to earn the International Mathematical Class certification offered by the college in 2020. In addition to his academic pursuits, Yiyang was the captain of the college's table tennis team in 2018 and 2019, leading the team to its best performance in the last decade.
+Prior to Georgia Tech, Yiyang earned two master's degrees from the University of Michigan — an M.S. in Applied Statistics and an M.F.E. in Quantitative Finance and Risk Management — both completed in 2023. He received his B.S. in Economics from Lingnan College, Sun Yat-sen University in 2020, where he was one of seven students awarded the International Mathematical Class Certification, graduating with honors.
+
+Outside of research, Yiyang served as captain of the Lingnan College table tennis team in 2018 and 2019, leading the team to its strongest performance in history.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
