@@ -1,6 +1,9 @@
 ---
 title: "Fatal Attraction? An Early Investigation of the AI Bubble"
-authors: Xindi He, Alex Hsu, Andrea Tamoni, and Yiyang Zhang
+authors: 
+- Xindi He
+- Alex Hsu
+- Andrea Tamoni
 - admin
 date: "2026-04-27"
 doi: ""
