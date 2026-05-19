@@ -1,12 +1,12 @@
 ---
-title: "Breaking the Mirror: Volatility and Pricing Anomalies in Index and ETF Options"
-authors:
+title: "Fatal Attraction? An Early Investigation of the AI Bubble"
+authors: Xindi He, Alex Hsu, Andrea Tamoni, and Yiyang Zhang
 - admin
 date: "2025-01-06"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-06T00:00:00Z"
+publishDate: "2026-04-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,23 +15,24 @@ publishDate: "2025-01-06T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Ph.D. First Year Milestone Paper"
+publication: "SSRN Working Paper"
 publication_short: ""
 
-abstract: This study identifies empirical differences between Index options (European-style) and ETF options (American-style) matched on maturities and strike prices. Despite ETFs closely tracking the Index, two major anomalies arise, (1) Index options enter uninterrupted in-the-money (ITM) status later than their ETF counterparts, and (2) Index options exhibit significantly lower implied volatility, both contradict traditional theory. The delayed ITM status is explained by the higher intraday realized volatility of the Index; however, this conflicts with the lower implied volatility, which is partly driven by differences in liquidity and speculative trading. This volatility gap signals potential mispricing, with Index options underpriced and ETF options overpriced. These mispricing and the divergence between realized and implied volatilities offer profitable opportunities for a market-neutral volatility-spread trading strategy.
+abstract: The equity market has rewarded AI-relevant firms with outsized growth and elevated valuations. However, if AI fails to deliver the expected earnings growth and cost savings, today's financial and physical investments may be misallocated. To assess whether the equity market is currently experiencing an AI bubble, we construct a firm-level AI Rank Score using asset embeddings. Asset pricing tests show that firms with high AI Rank Scores have higher expected returns, higher valuation ratios, and are more profitable. Institutional investors, hedge funds in particular, hold portfolios with high delta exposure and position tilts toward the AI stocks. While we cannot rule out the AI-bubble hypothesis, the market is presently not as detached from fundamentals as a bubble would imply.
+
 
 # Summary. An optional shortened abstract.
-summary: Index options, ETF options, implied volatility, realized volatility, in-the-money (ITM), liquidity, mispricing
+summary: Artificial Intelligence, Asset Bubbles, Asset Embedding, Valuation
 tags:
 - Source Themes
 featured: true
 
-url_pdf: ''
+url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6662338'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://drive.google.com/file/d/1vN3NOU3wnjRcOQ83wjfe9abfw8z2nXoY/view?usp=drive_link'
+url_slides: ''
 url_source: ''
 url_video: ''
 
