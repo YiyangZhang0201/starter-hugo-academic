@@ -37,3 +37,5 @@ This note contains the following contents:
   * Differences in Differences
   * Synthetic Control
   * Nonparametric Method
+
+<iframe src="https://drive.google.com/file/d/1w8yhotG7tT7DypJphDCdcnBUPLOe7X9N/preview" width="100%" height="800" style="border: none;" allow="autoplay"></iframe>
