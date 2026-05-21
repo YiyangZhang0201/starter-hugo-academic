@@ -23,14 +23,6 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.accaglobal.com/
-  date_end: ""
-  date_start: "2019-06-01"
-  description: "8/13 Passed"
-  organization: the Association of Chartered Certified Accountants (ACCA)
-  organization_url: https://www.accaglobal.com/gb/en.html
-  title: ACCA Student
-  url: ""
 - certificate_url: https://www.garp.org/
   date_end: ""
   date_start: "2021-12-01"
