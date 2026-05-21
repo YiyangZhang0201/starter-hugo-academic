@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Accomplish&shy;ments'
@@ -39,21 +39,19 @@ item:
   organization_url: https://www.edx.org
   title: FRM Level I
   url: https://my.garp.org/sfdcApp#!/exam_results
-- certificate_url: "https://www.coursera.org/account/accomplishments/verify/XBAL76VNQYZZ"
-  date_end: ""
+- certificate_url: "https://www.coursera.org/"
+  date_end: "2025-09-19"
   date_start: "2019-02-01"
-  description: "Python for Data Science, AI & Development"
+  description: |2-
+  
+      Completed programs:
+      * [Explainable AI (XAI) Specialization — Duke University](https://coursera.org/verify/specialization/RI19EUJH33I0)
+      * [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/XBAL76VNQYZZ)
+      * [Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/997BQH3N8DBA)
+  
   organization: Coursera
   organization_url: https://www.coursera.org/
-  title: 'Python for Data Science, AI & Development'
-  url: 
-- certificate_url: "https://www.coursera.org/account/accomplishments/verify/997BQH3N8DBA"  
-  date_end: ""
-  date_start: "2019-04-01"
-  description: "Data Analysis with Python"
-  organization: Coursera
-  organization_url: https://www.coursera.org/
-  title: 'Data Analysis with Python'
+  title: 'Coursera Online Courses'
   url: 
 
 - certificate_url: https://www.kaggle.com/clarkzhang0201
