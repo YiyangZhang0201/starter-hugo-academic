@@ -31,3 +31,5 @@ url_video: ""
 ---
 
 The base of this note is my learning content at Georgia Tech courses: Econ 7022 and 7023. This note is built from the lecture notes from the above courses based on my own understanding and refers to multiple textbooks. Part of the proofs and calculations are done by myself. So, if you find there is any mistakes, please get in touch with me.
+
+<iframe src="https://drive.google.com/file/d/14iz738uHOCkjHe-Sy5MCVLSSSnZMbFIX/preview" width="100%" height="800" style="border: none;" allow="autoplay"></iframe>
