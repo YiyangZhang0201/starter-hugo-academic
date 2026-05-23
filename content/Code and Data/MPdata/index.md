@@ -1,5 +1,5 @@
 ---
-title: Monetary Policy Shock Data Replication
+title: Paper Replication
 authors:
 - Yiyang Zhang
 tags: []
@@ -11,8 +11,11 @@ image:
   focal_point: ""
 ---
 
-Here I replicated two Monetary Shock/Surprise paper and enlarged their data to the end of 2023.
+Here is the link to the codes of the top finance papers that I replicated. My Github link is [https://github.com/YiyangZhang0201/Replication-Package](https://github.com/YiyangZhang0201/Replication-Package).
 
-* Kenneth N Kuttner.2001."Monetary policy surprises and interest rates: Evidence from the Fed funds futures market".Journal of Monetary Economics,47(3):523-544.https://doi.org/https://doi.org/10.1016/S0304-3932(01)00055-1
-  * The data from author's website ends at 2019, I enlarged them to the end of year 2023. Due to the data limitation, there are several dates with some small error, but for the most of them, the results are accurate.
-  * The link to the replicated data (2012 to 2023): https://drive.google.com/file/d/10sQQwf8g5EtOwO6MrfoQckzJD2wcpCGU/view?usp=drive_link
+### Replicated Papers
+
+- Andrey Golubov and Theodosia Konstantinidi (2019, *Journal of Finance*). "Where is the risk in value? Evidence from a market-to-book decomposition." — [Notebook](https://github.com/YiyangZhang0201/Replication-Package/blob/main/GK2018JF.ipynb)
+- Jonathan Brogaard, Thanh Huong Nguyen, Talis J. Putniņš, and Eliza Wu (2022, *Review of Financial Studies*). "What moves stock prices? The roles of news, noise, and information." — [Notebook](https://github.com/YiyangZhang0201/Replication-Package/blob/main/BNPW_2022_RFS.ipynb)
+- Ekkehart Boehmer, Charles M. Jones, Xiaoyan Zhang, and Xinran Zhang (2021, *Journal of Finance*). "Tracking retail investor activity." — [Notebook](https://github.com/YiyangZhang0201/Replication-Package/blob/main/Stock%20TAQ%20Retail%20Extract.ipynb)
+- Brad Barber, Xing Huang, Philippe Jorion, Terrance Odean, and Christopher Schwarz (2024, *Journal of Finance*). "A (sub)penny for your thoughts: Tracking retail investor activity in TAQ." — [Notebook](https://github.com/YiyangZhang0201/Replication-Package/blob/main/Subpenny_Retail_2024JF.ipynb)
