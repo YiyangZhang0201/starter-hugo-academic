@@ -27,8 +27,9 @@ item:
   date_end: ""
   date_start: "2021-12-01"
   description: "FRM Level I Passed"
+  icon: garp
   organization: Global Association of Risk Professionals (GARP)
-  organization_url: https://www.edx.org
+  organization_url: https://www.garp.org/
   title: FRM Level I
   url: https://my.garp.org/sfdcApp#!/exam_results
 - certificate_url: "https://www.coursera.org/"
@@ -54,6 +55,7 @@ item:
       Completed programs:
       * [Bloomberg Spreadsheet Analysis Certificate](https://portal.bloombergforeducation.com/certificates/Tco43WGvrbUdFCyRiwTFyWc3)
   
+  icon: bloomberg
   organization: Bloomberg for Education
   organization_url: https://portal.bloombergforeducation.com/
   title: 'Bloomberg Certifications'
@@ -69,6 +71,7 @@ item:
       * G-Research Crypto Forecasting: Silver Medal
       * LLM Prompt Recovery: Silver Medal
   
+  icon: kaggle
   organization: Kaggle
   organization_url: https://www.kaggle.com/
   title: 'Kaggle Competitions Expert'
