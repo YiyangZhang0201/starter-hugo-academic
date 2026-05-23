@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: https://www.accaglobal.com/
+  date_end: ""
+  date_start: "2019-06-01"
+  description: "8/13 Passed"
+  organization: the Association of Chartered Certified Accountants (ACCA)
+  organization_url: https://www.accaglobal.com/gb/en.html
+  title: ACCA Student
+  url: ""
 - certificate_url: https://www.garp.org/
   date_end: ""
   date_start: "2021-12-01"
@@ -44,6 +52,19 @@ item:
   organization: Coursera
   organization_url: https://www.coursera.org/
   title: 'Coursera Online Courses'
+  url: 
+
+- certificate_url: "https://portal.bloombergforeducation.com/certificates/Tco43WGvrbUdFCyRiwTFyWc3"
+  date_end: "2026-05-01"
+  date_start: "2026-05-01"
+  description: |2-
+  
+      Completed programs:
+      * [Bloomberg Spreadsheet Analysis Certificate](https://portal.bloombergforeducation.com/certificates/Tco43WGvrbUdFCyRiwTFyWc3)
+  
+  organization: Bloomberg for Education
+  organization_url: https://portal.bloombergforeducation.com/
+  title: 'Bloomberg Certifications'
   url: 
 
 - certificate_url: https://www.kaggle.com/clarkzhang0201
