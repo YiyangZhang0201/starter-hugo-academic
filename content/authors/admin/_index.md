@@ -69,7 +69,7 @@ email: ""
 highlight_name: true
 ---
 
-Yiyang Zhang is a Fourth-year Ph.D. candidate in Finance at the Scheller College of Business, Georgia Institute of Technology, advised by Dr. Alex Hsu and Dr. Xindi He. His research lies at the intersection of empirical asset pricing and the options market, with a particular focus on the activities of institutional investors and on behavioral mechanisms that shape asset prices.
+Yiyang Zhang is a Fourth-year Ph.D. candidate in Finance at the Scheller College of Business, Georgia Institute of Technology. His research lies at the intersection of empirical asset pricing and the options market, with a particular focus on the activities of institutional investors and on behavioral mechanisms that shape asset prices.
 
 Prior to Georgia Tech, Yiyang earned two master's degrees from the University of Michigan — an M.S. in Applied Statistics and an M.F.E. in Quantitative Finance and Risk Management — both completed in 2023. He received his B.S. in Economics from Lingnan College, Sun Yat-sen University in 2020, where he was one of seven students awarded the International Mathematical Class Certification, graduating with honors.
 
