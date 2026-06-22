@@ -23,6 +23,17 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Lecturer
+    company:  Scheller College of Business, Georgia Institute of Technology
+    company_url: ''
+    company_logo: gt
+    location: Atlanta, GA, U.S.
+    date_start: '2026-01-08'
+    date_end: '2028-05-01'
+    description: |2-
+        * Instructor of MGT 3078 Finance & Investments (Undergraduate Section) in Spring 2026.
+        * Student evaluation rating: **4.5 / 5.0**.
+
   - title: Graduate Research Assistant
     company:  Scheller College of Business, Georgia Institute of Technology
     company_url: ''
@@ -43,11 +54,12 @@ experience:
     date_start: '2023-08-14'
     date_end: '2028-05-31'
     description: |2-
-        Responsibilities include:
-    
-        * Teaching Assistant for MGT 4070 International Finance (Undergraduate Section) and MGT 6070 International Finance (MBA section) in Fall 2023 and 2024.
-        * Teaching Assistant for MGT 4068 Fixed Income (Undergraduate Section) in Spring 2025.
-        * Outstanding Graduate Teaching Assistant Award for the Scheller College of Business in the Year 2024.
+        Teaching assignments by semester:
+
+        * **Fall 2025** &mdash; MGT 4070 International Finance (Undergraduate), MGT 6070 International Finance (MBA), MGT 3078 Finance & Investments (Undergraduate), MGT 6078 Finance & Investments (Graduate), MGT 3084-A Derivative Securities (Undergraduate).
+        * **Spring 2025** &mdash; MGT 4068 Fixed Income (Undergraduate).
+        * **Fall 2024** &mdash; MGT 4070 International Finance (Undergraduate), MGT 6070 International Finance (MBA).
+        * **Fall 2023** &mdash; MGT 4070 International Finance (Undergraduate), MGT 6070 International Finance (MBA).
 
 
   - title: Quantitative Trader
