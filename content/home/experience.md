@@ -54,7 +54,7 @@ experience:
     date_start: '2023-08-14'
     date_end: '2028-05-31'
     description: |2-
-        Teaching assignments by semester:
+        Holding Office Hours / Grading Assignments and Exams / Holding Review Sections for:
 
         * **Fall 2025** &mdash; MGT 4070 International Finance (Undergraduate), MGT 6070 International Finance (MBA), MGT 3078 Finance & Investments (Undergraduate), MGT 6078 Finance & Investments (Graduate), MGT 3084-A Derivative Securities (Undergraduate).
         * **Spring 2025** &mdash; MGT 4068 Fixed Income (Undergraduate).
