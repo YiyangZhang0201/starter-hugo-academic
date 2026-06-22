@@ -21,7 +21,7 @@ item:
 - certificate_url: ''
   date_end: ''
   date_start: '2024-05-01'
-  description: 'Awarded by Scheller College of Business for excellence in teaching MGT 4070 / MGT 6070 International Finance.'
+  description: 'Awarded by Scheller College of Business for excellence in Teaching Assistant service.'
   icon: gt
   organization: Scheller College of Business, Georgia Institute of Technology
   organization_url: 'https://www.scheller.gatech.edu/'
