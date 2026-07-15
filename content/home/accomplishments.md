@@ -23,6 +23,18 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: "/uploads/Yiyang Zhang.pdf"
+  date_end: "2026-07-03"
+  date_start: "2026-05-19"
+  description: |2-
+  
+      Certificate of Participation, by Prof. Markus Brunnermeier. A Ph.D.-level flipped-classroom course covering continuous-time modeling techniques at the intersection of macroeconomics, monetary economics, and international finance — including endogenous risk dynamics, monetary models, and safe-asset pricing.
+  
+  icon: princeton
+  organization: Markus' Academy, Princeton University Bendheim Center for Finance
+  organization_url: https://initiative.princeton.edu/
+  title: "Macro, Money, & Finance Summer School for Ph.D. Students"
+  url: https://initiative.princeton.edu/2026-macrofinance-online-summer-school/
 - certificate_url: https://www.garp.org/
   date_end: ""
   date_start: "2021-12-01"
