@@ -16,9 +16,9 @@ links:
 - icon: github
   icon_pack: fab
   name: Follow
-  url: [https://www.overleaf.com/read/vvwygyccghvp#cf167a](https://publish.obsidian.md/yiyangzhang/Research+Areas/Yiyang's+Paper+Reading+Notes)
+  url: "https://publish.obsidian.md/yiyangzhang/Research+Areas/Yiyang's+Paper+Reading+Notes"
 url_code: ""
-url_pdf: "[https://www.overleaf.com/read/vvwygyccghvp#cf167a](https://publish.obsidian.md/yiyangzhang/Research+Areas/Yiyang's+Paper+Reading+Notes)"
+url_pdf: "https://publish.obsidian.md/yiyangzhang/Research+Areas/Yiyang's+Paper+Reading+Notes"
 url_slides: ""
 url_video: ""
 
