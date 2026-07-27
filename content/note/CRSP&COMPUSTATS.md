@@ -1,6 +1,6 @@
 ---
 title: Paper Reading Notes
-summary: This note is based on my paper reading for some topics besides those listed. 
+summary: This note is based on my paper readings. 
 tags:
 - Finance
 date: "2023-11-09T00:00:00Z"
