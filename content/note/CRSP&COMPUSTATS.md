@@ -16,9 +16,9 @@ links:
 - icon: github
   icon_pack: fab
   name: Follow
-  url: https://www.overleaf.com/read/vvwygyccghvp#cf167a
+  url: [https://www.overleaf.com/read/vvwygyccghvp#cf167a](https://publish.obsidian.md/yiyangzhang/Research+Areas/Yiyang's+Paper+Reading+Notes)
 url_code: ""
-url_pdf: "https://www.overleaf.com/read/vvwygyccghvp#cf167a"
+url_pdf: "[https://www.overleaf.com/read/vvwygyccghvp#cf167a](https://publish.obsidian.md/yiyangzhang/Research+Areas/Yiyang's+Paper+Reading+Notes)"
 url_slides: ""
 url_video: ""
 
@@ -30,7 +30,7 @@ url_video: ""
 ---
 
 
-This note contains the following topics: 
-  * Macro-Finance
-  * Option Trading
-  * Market Microstructure
+This site is a growing collection of my research and paper-reading notes in finance, economics, econometrics, and related quantitative fields. 
+* My main interests include asset pricing, behavioral finance, institutional investors, market microstructure, and option markets.
+* The notes summarize key findings, explain methodologies, and connect individual papers to broader research questions.
+* Visit the archive to browse by research area or search for specific papers, authors, methods, and topics.
