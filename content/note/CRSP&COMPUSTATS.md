@@ -34,6 +34,7 @@ This site is a growing collection of my research and paper-reading notes in fina
 * My main interests include asset pricing, behavioral finance, institutional investors, market microstructure, and option markets.
 * The notes summarize key findings, explain methodologies, and connect individual papers to broader research questions.
 * Visit the archive to browse by research area or search for specific papers, authors, methods, and topics.
+* To get the most out of it, click the icon above and open it in a new tab.
 
 <iframe src="https://publish.obsidian.md/yiyangzhang/Research+Areas/Yiyang's+Paper+Reading+Notes" width="100%" height="800" style="border: none;" allow="autoplay"></iframe>
 
